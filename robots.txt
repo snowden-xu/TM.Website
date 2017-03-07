@@ -14,4 +14,4 @@ Disallow: /job/templates/
 Disallow: /member/
 Disallow: /sitemap/templates/
 Disallow: /wap/templates/
-Sitemap: http://app.metinfo.cn/metv5/sitemap.xml
+Sitemap: http://127.0.0.100:81/sitemap.xml
