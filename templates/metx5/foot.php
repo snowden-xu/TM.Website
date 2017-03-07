@@ -7,6 +7,8 @@ echo <<<EOT
 	<section class="tem_inner">
 		<div class="tem_footer_nav">{$met_foot_nav}</div>
 		<div class="tem_footer_text">
+		
+		<div class="tem_footer_text">
 		{$met_foot_txt}
 		</div>
 	</section>
