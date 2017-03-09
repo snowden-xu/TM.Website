@@ -1,0 +1,12 @@
+/*样式微调
+ *文件管理工具的这些需求样式并非需要开始就加载所以使用own.js加载不影响体验
+*/
+
+/*全局输入框*/
+#elfinder{font-size:18px!important;}
+
+/*右下角的文字边距*/
+.elfinder-stat-size{margin-right:8px;}
+
+/*文件名称高度*/
+/*.elfinder-cwd-view-icons .elfinder-cwd-filename{max-height: 30px;}*/
