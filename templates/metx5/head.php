@@ -8,7 +8,7 @@ echo <<<EOT
     <header data-waypointsok="{$lang_waypointsok}">
 		<section>
 			<div class="tem_inner tem_top">
-				<h2>{$met_seo}</h2>
+				<h2>{$met_seo}11111</h2>
 				<div class="tem_top_nav">
 <!--
 EOT;
